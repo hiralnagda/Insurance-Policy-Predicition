@@ -1,0 +1,180 @@
+No of Kids,age of kids,Maratial Status,Gender,occupation,Disease history,education,Income,incometax payer,smoking and alcohol,weight,Height,Preexisting Disease,Plan1,Regularity,Age,Term,Premium 1,Premium2,sum assured plan1(in lakhs),Plan2
+2,"25,19",Married,M,Business,Y,HSC,"6,00,000",Y,Y,73,170,N,Endowment,Yearly,52,16,34589,43610.00,500000.00,Jeevan anand
+1,7,Married,M,Employee,N,HSC,"2,50,000.00",N,N,65,165,N,Endowment,Half Yearly,33,20,4948,7705.00,200000.00,Money back
+1,9,Married,F,Employee,N,Graduate,380000,N,N,62,155,N,0,Yearly,30,35,,2860.00,,Jeevan Saral
+0,,Unmarried,F,Employee,N,HSC,225000,N,N,65,155,N,0,Quaterly,21,20,,9381.00,,Money Back
+0,,Unmarried,M,Student,N,7th Grade,0,N,N,60,163,N,0,Monthly,12,25,,,0.00,Jeevan Kishore
+0,,Married,M,Photographer,N,Graduate,400000,Y,N,70,176,N,0,Half yearly,28,20,,7591.00,200000.00,Money Back
+1,32,Married,M,Business,Y,SSC,"3,50,000.00",Y,N,66,165,Y,Endowment,Yearly,59,11,18739,18849.00,200000.00,Jeevan anand
+1,18,Married,M,Business,Y,Graduate,"6,00,000.00",Y,Y,80,169,N,Endowment,Half Yearly,42,16,16216,20128.00,500000.00,Jeevan Anand
+1,22,Married,M,Business,N,HSC,20000000,Y,Y,82,167,N,0,Yearly,49,20,,18660.00,,Term Plan
+0,0,Married,M,Employee,N,Graduate,"12,00,000.00",Y,N,85,182,N,Endowment,Half Yearly,26,25,9249,14261.00,5000000.00,Money Back
+0,0,Married,M,CA,N,Graduate,"1,40,000.00",,N,78,170,,Endowment,Yearly,33,16,31208,31250.00,500000.00,Jeevan Saral
+2,"12,17",Married,M,Teacher,N,Graduate,"1,00,000.00",Y,Y,74,169,,Endowment,Half Yearly,52,15,7557,2376.00,200000.00,Jeevan Saral
+1,12,Married,M,Doctor,N,Graduate,2500000,,N,71,172,,0,Yearly,33,30,,117600.00,,Jeevan Saral
+1,8,Married,M,Business,N,Graduate,1800000,,Y,67,169,,0,Yearly,29,25,,1688700.00,,Money Back
+2,"18,15",Married,F,Business,N,HSC,"3,00,000.00",Y,N,81,155,N,Endowment,Quarterly,43,20,2635,4150.00,200000.00,Money back
+1,12,Married,M,Dentist,N,Graduate,"
+500000.00",,Y,81,171,,0,Half Yearly,35,23,,3000.00,,Jeevan Saral
+0,,Unmarried,M,Business,N,HSC,"3,60,000",,Y,83,171,,Endowment,Monthly,26,25,2338,3603.00,750000.00,Money Back
+0,,Unmarried,M,Engineer,N,Graduate,412000,,N,70,174,,0,Quaterly,23,20,,14850.00,,Money Back
+0,,Unmarried,M,Employee,N,Graduate,300000,,N,83,156,,0,Monthly,29,20,,3042.00,,Jeevan Saral
+0,,Married,M,Fashion Designer,N,Graduate,220000,,Y,74,177,,0,Monthly,22,25,,1938.00,,Money Back
+1,8,Married,F,CA,N,Graduate,"12,50,000",,N,83,157,,Endowment,Half Yearly,27,20,119839,185798.00,5000000.00,Money Back
+0,,Unmarried,F,Engineer,N,Graduate,"17,00,000",,N,69,168,,Endowment,Yearly,24,20,12068,95599.00,2500000.00,Money Back
+2,"12,18",Married,M,Employee,N,Graduate,4000000,,N,80,165,,0,Yearly,48,17,,31260.00,,Term Plan
+3,"12,12,18",Married,M,Engineer,N,Graduate,2630000,,N,81,180,,0,Yearly,44,20,,22403.00,,Term Plan
+0,,Unmarried,M,Manager,N,Graduate,2500000,,Y,72,163,,0,Yearly,26,30,,208333.00,,Jeevan Saral
+0,,Unmarried,M,Choreographer,N,SSC,100000,,N,87,176,,0,Monthly,22,25,,1018.00,,Money Back
+0,,Married,M,Teacher,N,HSC,1200000,,N,65,155,,0,Monthly,29,21,,8333.00,,Jeevan Saral
+0,,Unmarried,M,Teacher,N,HSC,"7,00,000",,Y,76,160,,Endowment,Quaterly,27,25,14044,21097.00,1500000.00,Money Back
+0,,Unmarried,M,Student,N,4th Grade,,,N,69,175,,0,Monthly,9,25,,,200000.00,Jeevan Kishore
+0,,Unmarried,M,Business,N,SSC,600000,,N,80,179,,0,Yearly,27,20,,74028.00,,Money Back
+3,"13,18,21",Married,M,Business,N,HSC,8000000,,N,72,177,,0,Yearly,52,18,,124950.00,,Term Plan
+0,,Unmarried,M,Engineer,N,Graduate,700000,,N,87,162,,0,Monthly,26,25,,5765.00,,Money Back
+2,"17,24",Married,M,Engineer,Y,Graduate,"23,00,000",,N,67,181,,Endowment,Yearly,54,20,140112,179351.00,2500000.00,Jeevan Anand
+0,,Unmarried,F,Engineer,N,Graduate,300000,,N,65,181,,0,Monthly,30,17,,2108.00,,Jeevan Saral
+0,,Unmarried,F,Business,N,Graduate,200000,,N,65,173,,0,Monthly,22,25,,2035.00,,Money Back
+2,"16,20",Married,M,Business,N,HSC,30000000,,Y,75,182,,0,Yearly,44,25,,147300.00,,Term Plan
+2,"12,19",Married,M,CA,N,Graduate,"13,00,000",,N,74,181,,Endowment,Half Yearly,40,20,29258,39560.00,1170000.00,Money Back
+1,10,Married,F,Teacher,N,HSC,"7,00,000",,N,66,156,,Endowment,Quaterly,33,16,7969,9463.00,500000.00,Jeevan Anand
+1,12,Married,F,CA,N,Graduate,1600000,,N,87,172,,0,Half Yearly,37,20,,96921.00,,Money Back
+1,1,Married,M,Musician,N,Graduate,250000,,N,85,173,,0,Quaterly,27,23,,,,Jeevan Saral
+1,12,Married,M,Architect,N,Graduate,800000,,N,79,163,,0,Yearly,29,27,,,,Jeevan Saral
+2,"18,20",Married,M,Engineer,N,Graduate,"12,00,000",,N,87,174,,Endowment,Monthly,49,15,6875,12804.00,1500000.00,Money Back
+1,3,Married,M,Engineer,N,Graduate,650000,,Y,72,166,,0,Yearly,29,25,,,,Money Back
+0,,Married,M,Photographer,N,Graduate,200000,,N,76,155,,0,Yearly,25,20,,,,Money Back
+1,6,Married,M,Doctor,N,Graduate,2500000,,N,84,181,,0,Quaterly,37,25,,,,Term Plan
+3,"9,13,19",Married,M,Business,N,Graduate,20000000,,N,78,174,,0,Yearly,55,15,,,,Term Plan
+0,,Unmarried,F,Fashion Designer,N,Graduate,150000,,N,71,161,,0,Monthly,21,25,,,,Money Back
+0,,Unmarried,F,Dancer,N,Graduate,120000,,N,76,165,,0,Monthly,18,25,,,,Money Back
+0,,Married,F,Business,N,HSC,"8,00,000",,N,77,181,,Endowment,Monthly,23,25,5518,8110.00,1780000.00,Money Back
+1,8,Married,F,Business,N,SSC,2700000,,N,71,162,,0,Half Yearly,37,20,,,,Money Back
+2,"21,25",Married,F,Teacher,Y,HSC,"9,00,000",,N,66,156,,Endowment,Quaterly,49,15,20672,26325.00,1125000.00,Jeevan Anand
+2,"17,19",Married,M,Business,N,HSC,60000000,,N,72,177,,0,Yearly,45,16,,,,Term Plan
+0,,Married,M,Electrician,N,HSC,120000,,Y,68,179,,0,Monthly,29,20,,,,Money Back
+1,4,Married,F,Artist,Y,Graduate,220000,,Y,65,170,,0,Monthly,31,20,,,,Jeevan Saral
+0,,Unmarried,F,Dietician,N,Graduate,100000,,N,65,165,,0,Monthly,23,25,,,,Money Back
+1,9,Married,M,Employee,N,Graduate,"5,00,000",,N,65,168,,Endowment,Half Yearly,33,20,20119,,830000.00,Money Back
+2,11.14,Married,M,Manager,N,Graduate,800000,,Y,65,182,,0,Half Yearly,36,20,,,,Money Back
+2,"2,6",Married,F,Business,N,Graduate,"12,00,000",,N,78,159,,Money Back,Quaterly,29,20,,,,Jeevan Saral
+0,,Unmarried,M,Psycologist,N,Graduate,200000,,N,74,152,,0,Monthly,21,20,,,,Money Back
+0,,Unmarried,M,Business,Y,Graduate,900000,,N,71,173,,0,Monthly,27,25,,,,Money Back
+0,0,Unmarried,F,Student,N,3rd Grade,,N,N,67,155,N,0,Monthly,8,25,,,,Jeevan Kishore
+1,12,Married,M,CA,N,Graduate,2300000,,N,81,181,,0,Quaterly,36,30,,,,Jeevan Saral
+0,,Unmarried,M,Business,N,Graduate,200000,,N,75,163,,0,Monthly,22,25,,,,Money Back
+0,,Unmarried,F,Engineer,N,Graduate,450000,,N,85,168,,0,Half Yearly,23,25,,,,Money Back
+0,,Unmarried,M,CA,N,Graduate,1000000,,N,74,178,,0,Half Yearly,26,27,,,,Jeevan Saral
+0,,Married,M,Engineer,N,Graduate,"7,00,000",,Y,80,180,,Endowment,Quaterly,24,20,14490,,1200000.00,Money Back
+1,16,Married,M,Engineer,N,Graduate,1600000,,N,69,168,,0,Half Yearly,39,20,,,,Money Back
+0,,Married,F,Engineer,N,Graduate,"7,00,000",,Y,70,162,,Endowment,Half Yearly,22,25,16077,,875000.00,Money Back
+3,"12,18,22",Married,F,Doctor,Y,Graduate,2900000,,N,83,168,,0,Yearly,51,20,,,,Term Plan
+0,,Unmarried,F,Interior Designer,N,Graduate,"8,00,000",,Y,67,179,,Endowment,Monthly,24,25,537,,1600000.00,Money Back
+2,"12,18",Married,F,Engineer,N,Graduate,8200000,,N,83,160,,0,Yearly,48,23,,,,Term Plan
+1,8,Married,M,Business,N,HSC,"10,00,000",,N,81,173,,Endowment,Monthly,36,20,6695,,1660000.00,Money Back
+0,,Married,M,Engineer,N,Graduate,"15,00,000",,N,73,181,,Endowment,Monthly,24,20,10062,,2500000.00,Money Back
+0,,Married,M,Employee,N,Graduate,800000,,N,82,168,,0,Quaterly,34,,,,,Endowment
+0,,Unmarried,F,Teacher,N,Graduate,600000,,N,79,169,,0,Monthly,22,20,,,,Money Back
+1,10,Married,F,Fashion Designer,N,Graduate,"8,00,000",,N,87,169,,Endowment,Quaterly,33,25,1246,,1650000.00,Money Back
+0,,Unmarried,M,Employee,N,Graduate,300000,,N,68,162,,0,Quaterly,18,25,,,,Money Back
+0,0,Unmarried,M,Student,N,6th Grade,,,Y,84,176,,0,Yearly,11,30,,,,Jeevan Kishore
+0,,Unmarried,M,CA,N,Graduate,1200000,,Y,86,164,,0,Yearly,23,25,,,,Money Back
+2,"22,26",Married,M,Business,N,HSC,700000,,Y,77,179,,0,Yearly,49,20,,81542.00,,Jeevan Anand
+0,,Unmarried,M,Student,N,7th Grade,,,N,69,157,,0,Quaterly,10,20,,5894.00,,Jeevan Kishore
+0,,Unmarried,M,Sales man,N,Graduate,100000,,N,72,163,,0,Monthly,18,20,,750.00,,Jeevan Saral
+1,9,Married,M,Business,N,Graduate,"5,00,000",,N,76,177,,Money Back,Yearly,33,20,30501,20000.00,400000.00,Jeevan Saral
+2,"9,13",Married,M,Fitness Trainer,N,HSC,200000,,N,81,177,,0,Half Yearly,35,20,,15539.00,,Money Back
+0,,Married,M,Graphic Designer,N,Graduate,300000,,N,66,166,,0,Quaterly,30,20,,9513.00,,Money Back
+2,"19,21",Married,M,Business,N,Graduate,"9,00,000",,Y,87,169,,Money Back,Half Yearly,45,25,29902,25725.00,900000.00,Jeevan Anand
+0,,Unmarried,M,Teacher,N,Graduate,2500000,,N,80,156,,0,Yearly,21,25,,111698.00,,Money Back
+0,,Unmarried,F,CA,N,Graduate,"12,00,000",,N,80,179,,Endowment,Yearly,23,20,47225,73636.00,1000000.00,Money Back
+0,,Unmarried,F,Student,N,5th Grade,,,N,81,182,,0,Half Yearly,10,18,,13142.00,,Jeevan Kishore
+0,,Unmarried,M,Psycologist,N,Graduate,400000,,N,72,162,,0,Monthly,22,25,,2858.00,,Money Back
+2,"19,23",Married,F,Business,Y,Graduate,"8,00,000",,N,82,156,,Endowment,Quaterly,53,15,9506,11900.00,200000.00,Jeevan Anand
+0,,Married,M,Event Manager,N,Graduate,"14,00,000",,N,68,182,,Money Back,Half Yearly,27,25,28596,18000.00,1000000.00,Jeevan Saral
+0,,Unmarried,F,Student,N,4th Grade,,,N,75,169,,0,Quaterly,9,20,,1204.00,,Jeevan Kishore
+0,,Unmarried,F,Business,N,Graduate,800000,,N,80,176,,0,Half Yearly,26,16,,35000.00,,Jeevan Saral
+0,,Unmarried,F,CA,N,Graduate,"13,00,000",,Y,77,168,,Endowment,Yearly,22,25,39982,89515.00,1100000.00,Money Back
+0,,Unmarried,F,Student,N,2nd Grade,,,N,78,157,,0,Quaterly,7,20,,2947.00,,Jeevan Kishore
+1,16,Married,F,Doctor,N,Graduate,1700000,,N,73,162,,0,Yearly,39,25,,11515.00,,Term Plan
+2,"18,25",Married,F,Teacher,Y,HSC,"8,00,000",,N,76,157,,Endowment,Yearly,55,20,46992,48637.00,600000.00,Jeevan Anand
+1,3,Married,F,Artist,N,Graduate,300000,,N,66,161,,0,Monthly,26,25,,3710.00,,Money Back
+0,,Married,M,Business,N,HSC,7000000,,Y,72,180,,0,Yearly,52,20,,73500.00,,Term Plan
+0,,Unmarried,M,,N,HSC,,,,,,,0,Monthly,14,10,,2833.00,,Jeevan Tarang
+0,,Unmarried,F,,N,HSC,,,,,,,0,Monthly,15,20,,2159.00,,Jeevan Tarang
+0,,Unmarried,F,,N,HSC,,,,,,,0,Half Yearly,15,15,,6944.00,,Jeevan Tarang
+0,,Unmarried,M,,N,HSC,,,,,,,0,Yearly,16,20,,120550.00,,Jeevan Tarang
+0,,Unmarried,M,,N,HSC,,,,,,,0,Yearly,17,10,,31728.00,,Jeevan Tarang
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,dsds,,,,,,,,,,,,
